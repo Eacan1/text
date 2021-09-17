@@ -7,7 +7,7 @@
  * @FilePath: \text\src\components\Yang.vue
 -->
 <template>
-  <div></div>
+  <div>杨憨憨</div>
 </template>
 
 <script>
